@@ -642,7 +642,7 @@ a {
 	text-decoration: none;
 }
 
-.site-title a {
+.site-title a, .menu-main-menu-container a {
 	color:#fff;
 }
 
