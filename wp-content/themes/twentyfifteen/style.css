@@ -5737,4 +5737,5 @@ p > video {
 
 ul.sites-weve-made {
     list-style-type:none;
+    text-decoration: none;
 }
