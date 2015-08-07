@@ -5739,6 +5739,6 @@ ul.sites-weve-made {
     list-style-type:none;
 }
 
-.sites-weve-made a:link {
+.sites-weve-made li a:link {
 	text-decoration: none;
 }
