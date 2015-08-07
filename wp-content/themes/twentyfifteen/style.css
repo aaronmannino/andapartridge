@@ -5737,5 +5737,8 @@ p > video {
 
 ul.sites-weve-made {
     list-style-type:none;
-    text-decoration: none;
+}
+
+.sites-weve-made a:link {
+	text-decoration: none;
 }
